@@ -7,7 +7,7 @@ const MovieList = ({ movies }) => {
       {movies.map((movie) => (
         <div key={movie.id} className="border p-4 rounded">
           <Link to={`/movie/${movie.id}`}>
-            <h2 className="text-lg font-bold">{movie.title}</h2>
+            <h2 className="text-lg text-center font-bold">{movie.title}</h2>
             <img
               src={`https://image.tmdb.org/t/p/w500${movie.poster_path}`}
               alt={movie.title}

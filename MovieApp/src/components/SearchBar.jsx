@@ -20,7 +20,7 @@ const SearchBar = ({ onSearch }) => {
         placeholder="Search for a movie..."
         className="border p-2 rounded w-full"
       />
-      <button type="submit" className="bg-blue-500 text-white p-2 rounded mt-2">
+      <button type="submit" className="px-12 mx-auto block bg-blue-500 text-white p-2 rounded mt-2">
         Search
       </button>
     </form>
