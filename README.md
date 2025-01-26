@@ -1,7 +1,5 @@
 # React App Collection
 
-This repository contains a collection of three interactive applications built with React. Each app showcases different features and functionality, ranging from basic state management to integrating with external APIs.
-
 ## Apps:
 
 ### 1. **Counter App**
