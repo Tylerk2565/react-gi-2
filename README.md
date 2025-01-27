@@ -37,8 +37,9 @@ To run any of the apps locally, follow these steps:
 2. **Navigate to which ever folder:**
    ```bash
    cd ( folder name )
-
 3. ** Install dependencies**
    ```bash
    npm intall
-   
+4. **Run application**
+   ```bash
+   npm run dev
